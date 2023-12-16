@@ -223,6 +223,7 @@ nav .plus{
     border-radius: 30px;
     margin-bottom: 10px;
     font-family: var(--chatFamily);
+    font-weight: 100;
 }
 .sendMessage figure{
     width: 30px;
