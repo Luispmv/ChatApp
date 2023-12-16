@@ -257,6 +257,7 @@ nav .plus{
 .productDescription h1{
     font-size: 2rem;
     color: var(--mainHeading);
+    font-weight: 400;
 }
 .productDescription p{
     color: var(--paragrahp);
@@ -280,10 +281,12 @@ nav .plus{
     }
     .purpleBar{
         width: 25%;
+        height: 35rem;
     }
     .GrayBar{
         width: 25%;
         bottom: 0;
+        height: 35rem;
     }
     main .appSection{
         width: 50%;
