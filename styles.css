@@ -15,9 +15,12 @@
     --paragrahp: hsl(270, 7%, 64%);
     --phoneBackgorund: #F5F3F8;
     --ChatWhite: #ffffff;
+    --mainBackground: #FAFAFA;
     --chatFamily: "Rubik";
 }
-
+body{
+    background-color: var(--mainBackground);
+}
 main{
     width: 100%;
     display: flex;
@@ -299,14 +302,13 @@ nav .plus{
 @media(min-width:1024px){
     main{
         position: absolute;
-        height: 500px;
+        height: 100vh;
     }
     .purpleBar{
         max-height: 35rem;
     }
     .GrayBar{
         max-height: 35rem;
-        bottom: -100px;
     }
     .appSection{
         max-height: 35rem;
