@@ -302,7 +302,7 @@ nav .plus{
 @media(min-width:1024px){
     main{
         position: absolute;
-        height: 100vh;
+        height: 625px;
     }
     .purpleBar{
         max-height: 35rem;
