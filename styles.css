@@ -28,7 +28,7 @@ main .appSection{
     width: 100%;
     display: flex;
     justify-content: center;
-    height: 85vh;
+    height: 450px;
 }
 .purpleBar{
     width: 40%;
@@ -286,7 +286,7 @@ nav .plus{
         align-self: center;
         text-align: start;
         align-items: start;
-        height: 85vh;
+        height: 450px;
         justify-content: center;
     }
     .productDescription p{
