@@ -337,6 +337,15 @@ nav .plus{
     main{
         max-width: 1600px;
     }
+    .purpleBar{
+        width: 20%;
+    }
+    .GrayBar{
+        width: 20%;
+    }
+    .appSection .phone{
+        left: 12%;
+    }
     .productDescription h1{
         font-size: 3rem;
     }
